@@ -7,7 +7,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Adham-Mamedov&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Adham+Mamedov;I+SPECIALIZE+IN+===+WEB+DEVELOPMENT;MY+EXPERIENCE+>+3+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Adham+Mamedov;ME+===+MIDDLE+WEB+DEVELOPER;MY+EXPERIENCE+>+3+YEARS;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg)
  
 <div align="center">
    <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Adham-Mamedov&theme=react-dark&hide_border=true&area=true" />
@@ -73,8 +73,10 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?style=for-the-badge&logo=graphql&labelColor=0D1117)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=redux&labelColor=0D1117)&nbsp;
-![MSSQL](https://img.shields.io/badge/-Microsoft+SQL+Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&labelColor=0D1117)&nbsp;
+![MSSQL](https://img.shields.io/badge/-Microsoft%20SQL%20Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&labelColor=0D1117)&nbsp;
 ![Webpack](https://img.shields.io/badge/-Webpack-0D1117?style=for-the-badge&logo=webpack&labelColor=0D1117)&nbsp;
+![PrismaJS](https://img.shields.io/badge/-Prisma%20JS-0D1117?style=for-the-badge&logo=prisma&labelColor=0D1117)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 
 ### LinkedIn:
 <a href="https://www.linkedin.com/in/adkham-mamedov-895b73229/">Adham Mamedov</a>
