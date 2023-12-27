@@ -7,10 +7,10 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Adham-Mamedov&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Adham+Mamedov;ME+===+MIDDLE+WEB+DEVELOPER;MY+EXPERIENCE+>+3+YEARS;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Adham+Mamedov;ME+===+MIDDLE+JAVASCRIPT+DEVELOPER;MY+EXPERIENCE+>+3+YEARS;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg)
  
 <div align="center">
-   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Adham-Mamedov&theme=react-dark&hide_border=true&area=true" />
+   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adham-Mamedov&theme=react-dark&hide_border=true&area=true" />
 <!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=Adham-Mamedov&theme=react-dark&hide_border=true&area=true) -->
 </div> 
  
@@ -48,18 +48,19 @@
 
 ### Main skills:
 
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117)&nbsp;
+![Remix](https://img.shields.io/badge/-Remix-0D1117?style=for-the-badge&logo=remix&labelColor=0D1117)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vuedotjs&labelColor=0D1117)&nbsp;
 ![Nest.js](https://img.shields.io/badge/-Nest.js-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=nodedotjs&labelColor=0D1117)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
 ![Fastify](https://img.shields.io/badge/-Fastify-0D1117?style=for-the-badge&logo=fastify&labelColor=0D1117)&nbsp;
 ![Shopify](https://img.shields.io/badge/-Shopify-0D1117?style=for-the-badge&logo=shopify&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 ### Tools:
 
@@ -77,6 +78,7 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-0D1117?style=for-the-badge&logo=webpack&labelColor=0D1117)&nbsp;
 ![PrismaJS](https://img.shields.io/badge/-Prisma%20JS-0D1117?style=for-the-badge&logo=prisma&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws&labelColor=0D1117)&nbsp;
 
 ### LinkedIn:
 <a href="https://www.linkedin.com/in/adkham-mamedov-895b73229/">Adham Mamedov</a>
