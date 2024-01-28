@@ -69,6 +69,7 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![MacOS](https://img.shields.io/badge/-MacOS-0D1117?style=for-the-badge&logo=macos&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge:
 ![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?style=for-the-badge&logo=graphql&labelColor=0D1117)&nbsp;
@@ -79,6 +80,7 @@
 ![PrismaJS](https://img.shields.io/badge/-Prisma%20JS-0D1117?style=for-the-badge&logo=prisma&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws&labelColor=0D1117)&nbsp;
+![CI/CD](https://img.shields.io/badge/-ci%2Fcd-0D1117?style=for-the-badge&logo=githubactions&labelColor=0D1117)&nbsp;
 
 ### LinkedIn:
 <a href="https://www.linkedin.com/in/adkham-mamedov-895b73229/">Adham Mamedov</a>
