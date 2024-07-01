@@ -85,9 +85,6 @@
 ### LinkedIn:
 <a href="https://www.linkedin.com/in/adkham-mamedov-895b73229/">Adham Mamedov</a>
 
-### Portfolio:
-<a href="https://ride-me-f5a972a96b1c.herokuapp.com/">RideME</a>
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Adham-Mamedov}/count.svg" /></p> 
